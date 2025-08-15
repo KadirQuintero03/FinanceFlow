@@ -35,9 +35,11 @@ Colaboración	Git Flow, convenciones de código (ESLint) y documentación intern
 
 --- 
 
-## 🌟 Características Destacadas
-📊 Módulos Principales
-Conversor de Divisas:
+## 🌟 Características Destacadas 
+
+### 📊 Módulos Principales
+
+####Conversor de Divisas:
 
 Integración con APIs de tasas de cambio en tiempo real.
 
