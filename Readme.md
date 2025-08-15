@@ -1,4 +1,4 @@
-📱 FinanceFlow - Simulador Financiero Móvil
+#📱 FinanceFlow - Simulador Financiero Móvil
 <div align="center"> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Finanzas-6DB33F?style=for-the-badge&logo=circle&logoColor=white" alt="Finanzas"/> </div>
 📌 Descripción del Proyecto
 FinanceFlow es un simulador financiero móvil diseñado para brindar herramientas avanzadas de gestión monetaria, cálculos de intereses y proyecciones de inversión. Desarrollado en equipo (5 desarrolladores), este proyecto priorizó un código limpio, modular y bien tipado para garantizar escalabilidad y mantenibilidad.
