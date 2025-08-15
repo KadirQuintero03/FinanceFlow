@@ -39,32 +39,26 @@ Colaboración	Git Flow, convenciones de código (ESLint) y documentación intern
 
 ### 📊 Módulos Principales
 
-####Conversor de Divisas:
-
-Integración con APIs de tasas de cambio en tiempo real.
-
-Historial de conversiones.
-
-Simulador de Intereses:
+**Simulador de Intereses:**
 
 Comparación entre interés simple vs. compuesto.
 
-Gráficos interactivos (usando librerías como victory-native).
-
-Inversiones:
+**Inversiones:**
 
 Proyecciones a corto/largo plazo con variables personalizables.
 
-Exportación de reportes en PDF.
+--- 
 
-🧩 Buenas Prácticas Implementadas
+## 🧩 Buenas Prácticas Implementadas
 Componentes reutilizables: Diseño atómico para evitar código duplicado.
 
 Rutas tipadas: Navegación segura con @react-navigation.
 
 Testing: Pruebas unitarias en lógica financiera (Jest).
 
-🚀 ¿Cómo Contribuir?
+--- 
+
+### 🚀 ¿Cómo Contribuir?
 Si deseas mejorar FinanceFlow:
 
 Haz fork del proyecto.
